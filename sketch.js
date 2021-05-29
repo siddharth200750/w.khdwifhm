@@ -28,7 +28,7 @@ function setup() {
 
   ground1 = new Ground(170, 200, 320, 20);
 
-  //first level
+  //first 
   BlockBlue1 = new Box(200, 182, 20, 20);
 
   BlockBlue2 = new Box(220, 182, 20, 20);
@@ -43,7 +43,7 @@ function setup() {
 
   BlockBlue7 = new Box(320, 182, 20, 20);
 
-  //second level
+  //second 
   BlockPink1 = new BoxPink(201, 2, 20, 20);
 
   BlockPink2 = new BoxPink(220, 2, 20, 20);
@@ -58,7 +58,7 @@ function setup() {
 
   BlockPink7 = new BoxPink(320, 2, 20, 20);
 
-  //third level
+  //third 
   BlockBlue8  = new Box(202, 182, 20, 20);
 
   BlockBlue9  = new Box(220, 182, 20, 20);
